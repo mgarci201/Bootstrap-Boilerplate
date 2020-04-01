@@ -1,0 +1,40 @@
+footer.page-footer {
+    bottom: 0;
+    color: #fff;
+}
+
+.font-small {
+    font-size: .9rem;
+}
+
+.special-color-dark {
+    background-color: #263238 !important;
+}
+
+.pt-4, .py-4 {
+    padding-top: 1.5rem !important;
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: .5rem;
+}
+
+a.waves-effect, a.waves-light {
+    display: inline-block;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+
+.btn-fb {
+    color: #fff;
+    background-color: #3b5998 !important;
+}
+
+.btn-floating i {
+    display: inline-block;
+    width: inherit;
+    color: #fff;
+    text-align: center;
+}
